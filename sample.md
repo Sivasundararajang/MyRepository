@@ -1,2 +1,2 @@
-** bold**
-*bold*
+#bold#
+*italic*
